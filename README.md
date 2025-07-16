@@ -1,21 +1,34 @@
-ATG Hotels – Design Task (Assessment)
+# ATG Hotels – Design Task (Assessment)
 
-This project includes:
-
-- **Mobile App Wireframes**
-- **User Journey**
-- **Landing Page UI Design**
-- **Thought Process + UX Notes**
+A UI/UX design assignment for ATGWorld. This project showcases mobile app wireframes, landing page UI, and the overall user flow.
 
 ---
 
-## View Final Designs
+## Task 1 – Mobile App
 
-🔗 **Figma File (Task 1 – App)**  
-[View Wireframes & Journey] ← https://www.figma.com/design/QIahQ8DG5iex3AcBjNXAte/ATG-Design-ZAINAB-KARIMI?t=XTR1U9EmIMfho3fd-1
+Includes:
+- Home screen
+- Hotel search, selection, and payment screens
+- User journey flow
+- Thought process notes
 
-🔗 **Figma File (Task 2 – Landing Page)**  
-[View Landing Page] ← https://www.figma.com/design/v69W7eNCXcCXhmrg5ywfUC/ATGWorld?node-id=0-1&t=XTR1U9EmIMfho3fd-1
+🔗 [Open Figma – App Wireframes] --> ([https://www.figma.com/...](https://www.figma.com/design/QIahQ8DG5iex3AcBjNXAte/ATG-Design-ZAINAB-KARIMI?t=XTR1U9EmIMfho3fd-1))
+
+![Mobile Preview](images/mobile-preview.png)
+
+---
+
+## Task 2 – Landing Page
+
+Designed for ATG Hotels to highlight:
+- Smart hotel search
+- Cancellation features
+- Offers & Amenities
+- Testimonials
+
+🔗 [Open Figma – Landing Page] --> ([https://www.figma.com/...](https://www.figma.com/design/v69W7eNCXcCXhmrg5ywfUC/ATGWorld?node-id=0-1&t=XTR1U9EmIMfho3fd-1))
+
+![Landing Preview](images/landing-preview.png)
 
 ---
 
