@@ -12,9 +12,10 @@ Includes:
 - User journey flow
 - Thought process notes
 
-🔗 [Open Figma – App Wireframes] --> ([https://www.figma.com/...](https://www.figma.com/design/QIahQ8DG5iex3AcBjNXAte/ATG-Design-ZAINAB-KARIMI?t=XTR1U9EmIMfho3fd-1))
+🔗 [Open Figma – App Wireframes] --> ([https://www.figma.com/...](https://www.figma.com/design/QIahQ8DG5iex3AcBjNXAte/ATG-Design-ZAINAB-KARIMI?t=XTR1U9EmIMfho3fd-1)) 
 
-![Mobile Preview](images/mobile-preview.png)
+[User Journey] --> (https://github.com/cryogunner/design-tasks/blob/main/ATG%20Design-User%20Journey.png)
+[WireFrames] --> (
 
 ---
 
@@ -26,9 +27,9 @@ Designed for ATG Hotels to highlight:
 - Offers & Amenities
 - Testimonials
 
-🔗 [Open Figma – Landing Page] --> ([https://www.figma.com/...](https://www.figma.com/design/v69W7eNCXcCXhmrg5ywfUC/ATGWorld?node-id=0-1&t=XTR1U9EmIMfho3fd-1))
+🔗 [Open Figma – Landing Page] --> ((https://www.figma.com/design/v69W7eNCXcCXhmrg5ywfUC/ATGWorld?node-id=0-1&t=XTR1U9EmIMfho3fd-1))
 
-![Landing Preview](images/landing-preview.png)
+[Landing Page] --> (
 
 ---
 
