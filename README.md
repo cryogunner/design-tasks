@@ -32,7 +32,9 @@ Designed for ATG Hotels to highlight:
 [Landing Page] --> (https://github.com/cryogunner/design-tasks/blob/main/ATGWorld-Landing%20Page.png)
 
 ---
+[Read full UX notes](./thoughts.md)
 
+---
 ## Author
 
 **Zainab Karimi**  
